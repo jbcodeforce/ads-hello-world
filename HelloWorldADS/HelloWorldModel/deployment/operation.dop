@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="HelloWorldModel">
+  <name>HelloWorldModel</name>
+  <uuid>a3f3738b-93d6-473e-beb7-5bf0ce8c535f</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#4d34a482-68c6-489a-b1b1-ef8cddecdaa8"/>
+  <targetRuleProject href="../../HelloWorldModel#ee416319-0ea5-4a13-8dd2-f52ab51238a2"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["helloWorldModel"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
